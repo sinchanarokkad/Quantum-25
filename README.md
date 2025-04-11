@@ -45,6 +45,8 @@ HTML + Tailwind CSS + Recharts
 
 
 ![Screenshot 2025-04-12 015649](https://github.com/user-attachments/assets/080ae111-d45b-458b-9c2a-d2c80ca8face)
+![Screenshot 2025-04-12 020212](https://github.com/user-attachments/assets/b2220612-5e0d-4ecd-a1c8-93a2dc59d856)
+
 
 ![Screenshot 2025-04-12 015711](https://github.com/user-attachments/assets/862a01ae-ee30-4ed5-b9ce-b79be3fe724b)
 
