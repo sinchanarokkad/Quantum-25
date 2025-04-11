@@ -16,6 +16,27 @@ A GenAI-powered solution to automate bill data extraction and populate predefine
 - 📱 **Responsive UI** with Tailwind CSS and Recharts
 
 ---
+🔧 Technologies Used
+Python (Backend Logic)
 
+Hugging Face Transformers (LLMs for data extraction)
+
+EasyOCR / Tesseract (OCR engine)
+
+FastAPI / Flask (API handling)
+
+HTML + Tailwind CSS + Recharts 
+
+
+🧠 How It Works
+📤 Upload a Bill Image
+
+👀 OCR Engine reads the content
+
+🤖 GenAI interprets text & extracts fields
+
+📄 Fills predefined template 
+
+📦 Stores extracted data 
 
 
