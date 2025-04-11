@@ -28,7 +28,7 @@ FastAPI / Flask (API handling)
 HTML + Tailwind CSS + Recharts 
 
 
-🧠 How It Works
+##🧠 How It Works
 📤 Upload a Bill Image
 
 👀 OCR Engine reads the content
